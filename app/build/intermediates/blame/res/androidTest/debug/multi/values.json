@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/kalirajkalimuthu/.android/build-cache/d898df9d70cc0fc945b75eb9e5c3051726e63066/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

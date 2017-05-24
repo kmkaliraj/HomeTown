@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

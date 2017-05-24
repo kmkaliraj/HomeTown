@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/res/merged/debug/menu/bottom_navigation_menu.xml",
+        "source": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/src/main/res/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/res/merged/debug/menu/toolbar_menu.xml",
+        "source": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/src/main/res/menu/toolbar_menu.xml"
+    }
+]

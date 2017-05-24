@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/kalirajkalimuthu/.android/build-cache/c941dee06a96c590188d05bfe8ad24c77be1c9dc/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/kalirajkalimuthu/.android/build-cache/92d229dbe99c4b72401f689fd864f23fa8ed1922/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/kalirajkalimuthu/.android/build-cache/92d229dbe99c4b72401f689fd864f23fa8ed1922/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/kalirajkalimuthu/.android/build-cache/92d229dbe99c4b72401f689fd864f23fa8ed1922/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/kalirajkalimuthu/.android/build-cache/92d229dbe99c4b72401f689fd864f23fa8ed1922/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/kalirajkalimuthu/.android/build-cache/92d229dbe99c4b72401f689fd864f23fa8ed1922/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/kalirajkalimuthu/.android/build-cache/92d229dbe99c4b72401f689fd864f23fa8ed1922/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/kalirajkalimuthu/.android/build-cache/92d229dbe99c4b72401f689fd864f23fa8ed1922/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/kalirajkalimuthu/.android/build-cache/92d229dbe99c4b72401f689fd864f23fa8ed1922/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/kalirajkalimuthu/.android/build-cache/92d229dbe99c4b72401f689fd864f23fa8ed1922/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/kalirajkalimuthu/.android/build-cache/92d229dbe99c4b72401f689fd864f23fa8ed1922/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    }
+]

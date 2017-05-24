@@ -1,0 +1,7 @@
+#Fri May 05 00:11:23 PDT 2017
+base.0=/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cd4dc89d8b81d50da2c24c7bda982f27a1a488ed
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_00aefe1d0f4ae8ff0a000e2a101e425b92402058/classes.dex
+base.1=/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_00aefe1d0f4ae8ff0a000e2a101e425b92402058
+file.0=/Users/kalirajkalimuthu/Documents/SDSU Spring 2017/Android/Assignments/Assignment5/HomeTown/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cd4dc89d8b81d50da2c24c7bda982f27a1a488ed/classes.dex
